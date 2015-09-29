@@ -4,7 +4,7 @@ A series of worksheets used by Trillium Consultancy / Emma Jane Hogbin Westby to
 
 ## Worksheets
 
-- KPIs for Individuals - focus on helping an employee to make the best of what they consider to be a "bad" situation
+- KPIs for (Disillusioned) Individuals - focus on helping an employee to make the best of what they consider to be a "bad" situation
 
 ## Resources
 

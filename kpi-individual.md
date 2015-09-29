@@ -1,4 +1,4 @@
-# Individual KPI
+# KPI for (Disillusioned) Individuals
 
 This worksheet is for employees who want to define how they will provide value to their company in the next three months. The slant of the worksheet assumes that the employee is currently _unhappy_ with their role within the organisation. This worksheet was originally created as a [Google Doc](https://docs.google.com/document/d/10E0PDvrOvoSNN0WRtw_62wS8aUll5ngCtn6ZlViC9bA/).
 
