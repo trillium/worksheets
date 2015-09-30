@@ -2,11 +2,16 @@
 
 This worksheet helps you to develop a list of the common tasks staff engage in. Companies will often develop a skills matrix to highlight skills and deficiencies of the individuals on a team; however, this process is focused on the likelihood that someone on the team could train another person to do the job. Instead of looking for people to train, we are looking for processes to codify / document and simplify. We assume competence on the part of the existing team member, but recognise there may be insufficient automation / resources to easily onboard new staff (resulting in skills deficiencies over time).
 
-## Basic Details
+## Process
+
+If you are completing this as an outside observer (HR role), collect:
 
 - Name -- used for follow-up questions
 - Role -- used to aggregate answers from similar roles into a single skills list
 - Duration of employment -- how long have you been at the company (assumes that someone who has been at the company for longer will have a more innate understanding of how tasks are completed and therefore may rank things "easier" than they are)
+- Job description -- ideally you can use this process to match actual tasks to "contracted" tasks, ensuring job descriptions are kept up-to-date and new hires have relevant skills.
+
+The remainder of this worksheet can be completed individually, or (ideally) as a group.
 
 ## Task List
 
