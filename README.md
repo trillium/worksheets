@@ -5,6 +5,7 @@ A series of worksheets used by Trillium Consultancy / Emma Jane Hogbin Westby to
 ## Worksheets
 
 - KPIs for (Disillusioned) Individuals - focus on helping an employee to make the best of what they consider to be a "bad" situation
+- Improving Capacity with Documented Processes - make onboarding easier by list common tasks and ensuring they are documented
 
 ## Resources
 
